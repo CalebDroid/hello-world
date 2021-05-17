@@ -1,2 +1,2 @@
 # hello-world
-Stupid 
+Stupid way to write "Hello World!" in Java.
