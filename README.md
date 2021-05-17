@@ -1,3 +1,3 @@
 # hello-world
-Stupid way to write "Hello World!" in Java.
-Test.
+Another stupid way to write "Hello World!" in Java.
+
